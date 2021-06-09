@@ -96,20 +96,6 @@ const Destination = () => {
             )}
           </form>
         )}
-        {!showPickPointForm && (
-          <div className="p-4 my-5 mx-2 shadow-lg rounded bg-success text-white shadow-lg">
-            <ul className="shadow p-1">
-              <li>
-                <b>From:</b> {pickPoint.pickFrom}
-              </li>
-              <li>
-                <b>To:</b> {pickPoint.pickTo}
-              </li>
-              <p>Date: {pickPoint.pickDate}</p>
-              <p>Time: {pickPoint.pickTime}</p>
-            </ul>
-          </div>
-        )}
       </div>
     </div>
   );
