@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "iconURL": "https://images.vexels.com/media/users/3/152654/isolated/preview/e5694fb12916c00661195c0a833d1ba9-sports-bike-icon-by-vexels.png",
+    "vehicleName": "Bike",
+    "numberOfVehicle": 3,
+    "availableSeat": 1,
+    "rent": 30
+  },
+  {
+    "id": 2,
+    "iconURL": "https://cdn4.iconfinder.com/data/icons/BRILLIANT/transportation/png/400/muscle_car.png",
+    "vehicleName": "Car",
+    "numberOfVehicle": 4,
+    "availableSeat": 10,
+    "rent": 50
+  },
+  {
+    "id": 3,
+    "iconURL": "https://cms.grapesmobile.com/uploads/truck/sub-category/d2939914208dbb03c2a9d3534e7b967f.png",
+    "vehicleName": "Bus",
+    "numberOfVehicle": 2,
+    "availableSeat": 45,
+    "rent": 60
+  },
+  {
+    "id": 4,
+    "iconURL": "https://img.icons8.com/emoji/452/train-emoji.png",
+    "vehicleName": "Train",
+    "numberOfVehicle": 1,
+    "availableSeat": 200,
+    "rent": 20
+  }
+]
